@@ -1,9 +1,8 @@
 # Cloud and DevOps Projects
 
-## Project: [Automating Provisioning Cloud Infrastructures](https://github.com/Mregojos/Cloud-Infrastructures)
-> This project automates the provisioning of Cloud Services 
-
-> Tech Stack: 
+## Project: [Automating Cloud Infrastructures with IaC](https://github.com/Mregojos/Cloud-Infrastructures)
+- This project shows how to automates the provisioning of Cloud Services with IaC tools
+- Tech Stack: 
 
 ## Project: [CI/CD with Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
 
