@@ -12,7 +12,7 @@
 * About:
 * Tech Stack:
 
-## Project: [CI/CD with GitHub Actions](https://github.com/Mregojos/CI-CD-with-GitHub-Actions)
+## Project: [ Container Orchestration: Monitoring, Observability, and Logging](https://github.com/Mregojos/Monitoring-and-Observability)
 * About:
 * Tech Stack:
 
@@ -37,7 +37,9 @@
 * About:
 * Tech Stack:
 
-## Project: [Monitoring and Observability](https://github.com/Mregojos/Monitoring-and-Observability)
+
+
+## Project: [CI/CD with GitHub Actions](https://github.com/Mregojos/CI-CD-with-GitHub-Actions)
 * About:
 * Tech Stack:
 -->
