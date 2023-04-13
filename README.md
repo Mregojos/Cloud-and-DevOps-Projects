@@ -1,8 +1,8 @@
 # Cloud and DevOps Projects
 
-## Project: [Automating the provisioning of Cloud Infrastructures using IaC and Cloud Services](https://github.com/Mregojos/Cloud-Infrastructures)
+## Project: [Automating the Provisioning of Cloud Infrastructures using IaC and AWS Cloud Services](https://github.com/Mregojos/Cloud-Infrastructures)
 
-## Project: [CI/CD with Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
+## Project: [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
 
 ## Project: [CI/CD with GitOps](https://github.com/Mregojos/CI-CD-with-GitOps)
 
