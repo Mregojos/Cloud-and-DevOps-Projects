@@ -4,7 +4,7 @@
 
 ## Project: [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
 
-## Project: [CI/CD with GitOps](https://github.com/Mregojos/CI-CD-with-GitOps)
+## Project: [CI/CD with GitOps (GitHub Actions and ArgoCD)](https://github.com/Mregojos/CI-CD-with-GitOps)
 
 ## Project: [Container Monitoring and Observability](https://github.com/Mregojos/Monitoring-and-Observability)
 
