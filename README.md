@@ -6,7 +6,7 @@
 
 ## Project: [CI/CD with GitOps](https://github.com/Mregojos/CI-CD-with-GitOps)
 
-## Project: [ Container Orchestration: Monitoring, Observability, and Logging](https://github.com/Mregojos/Monitoring-and-Observability)
+## Project: [Container Monitoring and Observability](https://github.com/Mregojos/Monitoring-and-Observability)
 
 <!--
 ## Project: CI/CD with <another services>
