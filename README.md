@@ -1,10 +1,10 @@
 # Cloud and DevOps Projects
 
+## Project: [CI/CD Pipelines with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
+
 ## Project: [Automating the Provisioning of Cloud Infrastructures using IaC and AWS Cloud Services](https://github.com/Mregojos/Cloud-Infrastructures)
 
-## Project: [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
-
-## Project: [CI/CD with GitOps (GitHub Actions and ArgoCD)](https://github.com/Mregojos/CI-CD-with-GitOps)
+## Project: [CI/CD Pipleines with GitOps (GitHub Actions and ArgoCD)](https://github.com/Mregojos/CI-CD-with-GitOps)
 
 ## Project: [Container Monitoring and Observability](https://github.com/Mregojos/Monitoring-and-Observability)
 
